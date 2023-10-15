@@ -1,2 +1,1 @@
-# NeuralNetwork-PyTorch
-Artificial Intelligence-CA5-part2
+Neural Network implementation using TensorFlow and Keras, and using for face recognition from UTKFace.
